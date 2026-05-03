@@ -1,0 +1,11 @@
+{
+  "name": "guita",
+  "version": "1.0.0",
+  "description": "Finanzas personales para trabajadores argentinos — ingreso neto real, gastos ajustados por inflacion y runway segun situacion laboral",
+  "skills": [
+    {
+      "name": "guita",
+      "path": "skills/guita/SKILL.md"
+    }
+  ]
+}
