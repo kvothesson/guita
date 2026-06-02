@@ -8,6 +8,16 @@ Calcula tu ingreso neto real, proyecta tus gastos ajustados por inflacion y te d
 claude --plugin-dir /ruta/a/guita
 ```
 
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/guita ~/guita
+cd ~/guita
+codex
+```
+
 ## Comandos
 
 | Comando | Que hace |
