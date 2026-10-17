@@ -242,7 +242,7 @@ Dato al: mayo 2026
 
 - SMVM: [argentina.gob.ar/trabajo/consejodelsalario](https://www.argentina.gob.ar/trabajo/consejodelsalario)
 - IPC / Inflacion: [apis.datos.gob.ar](https://apis.datos.gob.ar/series/api/series/?ids=148.3_INIVELNAL_DICI_M_26&limit=13&sort=desc&format=json)
-- Canasta basica: [apis.datos.gob.ar](https://apis.datos.gob.ar/series/api/series/?ids=444.1_CANASTA_batotPampeana_0_0_26_47&limit=1&sort=desc&format=json)
+- Canasta basica: [apis.datos.gob.ar](https://apis.datos.gob.ar/series/api/series/?ids=150.1_CSTA_BATAL_0_D_20&limit=1&sort=desc&format=json)
 - Dolar: [dolarapi.com](https://dolarapi.com/v1/dolares)
 - Monotributo categorias: [afip.gob.ar/monotributo](https://www.afip.gob.ar/monotributo/categorias.asp)
 - Seguro de desempleo: [anses.gob.ar](https://www.anses.gob.ar/prestacion/seguro-de-desempleo)
