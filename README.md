@@ -47,8 +47,8 @@ Ingreso bruto:               $80.000/mes (4 semanas x $20.000)
 Neto estimado:               $48.000/mes
 En dolares blue:             u$s 34/mes (blue $1.400)
 
-Canasta basica (referencia): $417.680 (INDEC, dic 2025)
-Tu ingreso cubre:            11.5% de una canasta
+Canasta basica (referencia): $519.578 (INDEC, ago 2026)
+Tu ingreso cubre:            9.2% de una canasta
 
 SMVM vigente:                $363.000 (mayo 2026)
 Tu ingreso representa:       13.2% del SMVM
@@ -83,8 +83,8 @@ Neto mensual:                $654.500/mes
 Neto real mensual:           $725.333/mes
 En dolares blue:             u$s 518/mes (blue $1.400)
 
-Canasta basica (referencia): $417.680 (INDEC, dic 2025)
-Tu ingreso cubre:            1.74 canastas
+Canasta basica (referencia): $519.578 (INDEC, ago 2026)
+Tu ingreso cubre:            1.40 canastas
 
 SMVM vigente:                $363.000 (mayo 2026)
 Tu ingreso equivale a:       2.0 salarios minimos
@@ -116,8 +116,8 @@ Categoria estimada: C (tope $21.113.696/año — vigente desde feb 2026)
 Neto estimado:               $1.304.384/mes
 En dolares blue:             u$s 932/mes (blue $1.400)
 
-Canasta basica (referencia): $417.680 (INDEC, dic 2025)
-Tu ingreso cubre:            3.12 canastas
+Canasta basica (referencia): $519.578 (INDEC, ago 2026)
+Tu ingreso cubre:            2.51 canastas
 
 SMVM vigente:                $363.000 (mayo 2026)
 Tu ingreso equivale a:       3.59 salarios minimos
@@ -146,8 +146,8 @@ Ingreso declarado:           $400.000/mes
 Neto disponible:             $400.000/mes
 En dolares blue:             u$s 286/mes (blue $1.400)
 
-Canasta basica (referencia): $417.680 (INDEC, dic 2025)
-Tu ingreso cubre:            95.8% de una canasta
+Canasta basica (referencia): $519.578 (INDEC, ago 2026)
+Tu ingreso cubre:            77.0% de una canasta
 
 SMVM vigente:                $363.000 (mayo 2026)
 Tu ingreso equivale a:       1.10 salarios minimos
