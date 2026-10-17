@@ -65,7 +65,7 @@ Fallback WebSearch: `site:argentina.gob.ar SMVM salario minimo [mes] [año]`
 Fetch: `https://apis.datos.gob.ar/series/api/series/?ids=148.3_INIVELNAL_DICI_M_26&limit=3&sort=desc&format=json`
 
 **Canasta basica:**
-Fetch: `https://apis.datos.gob.ar/series/api/series/?ids=444.1_CANASTA_batotPampeana_0_0_26_47&limit=1&sort=desc&format=json`
+Fetch: `https://apis.datos.gob.ar/series/api/series/?ids=150.1_CSTA_BATAL_0_D_20&limit=1&sort=desc&format=json`
 
 ### Paso 3 — Calculos por situacion
 
@@ -278,7 +278,7 @@ Despues de confirmar los datos, ejecutar el mismo flujo que `/guita sueldo`.
 Siempre mostrar comparativa con SMVM y canasta basica.
 
 Fetch SMVM: `https://www.argentina.gob.ar/trabajo/consejosalario`
-Fetch canasta: `https://apis.datos.gob.ar/series/api/series/?ids=444.1_CANASTA_batotPampeana_0_0_26_47&limit=1&sort=desc&format=json`
+Fetch canasta: `https://apis.datos.gob.ar/series/api/series/?ids=150.1_CSTA_BATAL_0_D_20&limit=1&sort=desc&format=json`
 
 ---
 
