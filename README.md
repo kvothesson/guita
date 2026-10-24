@@ -245,4 +245,4 @@ Dato al: mayo 2026
 - Canasta basica: [apis.datos.gob.ar](https://apis.datos.gob.ar/series/api/series/?ids=150.1_CSTA_BATAL_0_D_20&limit=1&sort=desc&format=json)
 - Dolar: [dolarapi.com](https://dolarapi.com/v1/dolares)
 - Monotributo categorias: [afip.gob.ar/monotributo](https://www.afip.gob.ar/monotributo/categorias.asp)
-- Seguro de desempleo: [anses.gob.ar](https://www.anses.gob.ar/prestacion/seguro-de-desempleo)
+- Seguro de desempleo: [argentina.gob.ar](https://www.argentina.gob.ar/servicio/tramitar-la-prestacion-por-desempleo-para-trabajadores-en-relacion-de-dependencia)
