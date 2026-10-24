@@ -1,11 +1,12 @@
 {
   "name": "guita",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Finanzas personales para trabajadores argentinos — ingreso neto real, gastos ajustados por inflacion y runway segun situacion laboral",
-  "skills": [
-    {
-      "name": "guita",
-      "path": "skills/guita/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/guita",
+  "repository": "https://github.com/kvothesson/guita",
+  "license": "MIT"
 }

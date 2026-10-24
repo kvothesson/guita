@@ -1,5 +1,5 @@
 ---
-description: Finanzas personales para trabajadores argentinos. Calcula ingreso neto real, proyecta gastos ajustados por inflacion y estima runway segun situacion laboral (dependencia, autonomo, plataforma, informal, sin trabajo, mixto). Aprende de cada conversacion y guarda perfiles de nuevos tipos de trabajadores localmente. Activa con: "cuanto me queda", "proyecto mis gastos", "cuanto aguanto sin trabajo", "soy repartidor", "soy monotributista", "mis finanzas", "guita".
+description: 'Finanzas personales para trabajadores argentinos. Calcula ingreso neto real, proyecta gastos ajustados por inflacion y estima runway segun situacion laboral (dependencia, autonomo, plataforma, informal, sin trabajo, mixto). Aprende de cada conversacion y guarda perfiles de nuevos tipos de trabajadores localmente. Activa con: "cuanto me queda", "proyecto mis gastos", "cuanto aguanto sin trabajo", "soy repartidor", "soy monotributista", "mis finanzas", "guita".'
 ---
 
 # Skill: /guita
