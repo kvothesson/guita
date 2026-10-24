@@ -58,7 +58,7 @@ Calcula el ingreso neto real segun la situacion laboral del usuario.
 ### Paso 2 — Fetch de datos de contexto
 
 **SMVM vigente:**
-Fetch: `https://www.argentina.gob.ar/trabajo/consejosalario`
+Fetch: `https://www.argentina.gob.ar/trabajo/consejodelsalario`
 Fallback WebSearch: `site:argentina.gob.ar SMVM salario minimo [mes] [año]`
 
 **Inflacion ultimo mes:**
@@ -92,7 +92,7 @@ Sin obra social automatica — si tiene prepaga, agregar ese costo.
 - Mostrar costo de regularizacion como monotributista categoria A como referencia
 
 **sin_trabajo:**
-Fetch seguro desempleo: `https://www.anses.gob.ar/prestacion/seguro-de-desempleo`
+Fetch seguro desempleo: `https://www.argentina.gob.ar/servicio/tramitar-la-prestacion-por-desempleo-para-trabajadores-en-relacion-de-dependencia`
 - Evaluar si califica: requiere haber estado en relacion de dependencia registrada
 - Si califica: mostrar monto estimado y duracion
 - Calcular runway con ahorros actuales si los tiene
@@ -277,7 +277,7 @@ Si el usuario alquila una cuenta: agregar ~$2.500/semana al costo operativo.
 Despues de confirmar los datos, ejecutar el mismo flujo que `/guita sueldo`.
 Siempre mostrar comparativa con SMVM y canasta basica.
 
-Fetch SMVM: `https://www.argentina.gob.ar/trabajo/consejosalario`
+Fetch SMVM: `https://www.argentina.gob.ar/trabajo/consejodelsalario`
 Fetch canasta: `https://apis.datos.gob.ar/series/api/series/?ids=150.1_CSTA_BATAL_0_D_20&limit=3&sort=desc&format=json` (usá la primera fila con valor; la serie tiene meses en `null`)
 
 ---
